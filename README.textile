@@ -1,6 +1,21 @@
-h1. KineticWing (kiwi) IDE
+h2. KineticWing : !http://kineticwing.com/packages/img/blue/kiwi.png!  Smart, Lightweight and Portable IDE for faster and easier web development.
 
-h2. Kiwi Features Tracker - Bugs, Enhancements, Requests
+h2. Introduction
 
-p. We can track kiwi current progress here.
+p<. Kiwi Features Tracker - Bugs, Enhancements, Requests
+
+p<. Track kiwi current progress here. You can raise issue and request for new features.
+
+h2. In Progress
+
+* Fixing posted issues in this repo tracker.
+* Creating docs
+
+h2. License
+
+* KineticWing source is closed. Flavours are open source and under Apache 2.
+* All docs are under creative common license.
+
+
+
 
