@@ -20,6 +20,6 @@ h2. License
 * All docs are under creative common license.
 
 
-!https://badges.gitter.im/Join%20Chat.svg(Join the chat at https://gitter.im/speedovation/kiwi)!:https://gitter.im/speedovation/kiwi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge 
+!https://badges.gitter.im/Join%20Chat.svg(Join the chat at https://gitter.im/speedovation/kiwi/General)!:https://gitter.im/speedovation/kiwi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge 
 
 
