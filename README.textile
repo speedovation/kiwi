@@ -1,3 +1,9 @@
+!https://badges.gitter.im/Join%20Chat.svg(Join the chat at https://gitter.im/speedovation/kiwi)!:https://gitter.im/speedovation/kiwi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge 
+
+(Join HipChat):https://www.hipchat.com/ggaNhaRfU
+
+
+
 h2. KineticWing : !http://kineticwing.com/packages/img/blue/kiwi.png!  Smart, Lightweight and Portable IDE for faster and easier web development.
 
 h2. Introduction
@@ -21,4 +27,3 @@ h2. License
 
 
 
-!https://badges.gitter.im/Join%20Chat.svg(Join the chat at https://gitter.im/speedovation/kiwi)!:https://gitter.im/speedovation/kiwi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
