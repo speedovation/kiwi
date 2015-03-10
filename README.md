@@ -1,3 +1,6 @@
+[![](https://img.shields.io/badge/GitterChat-Online-brightgreen.svg?style=flat-square)](https://gitter.im/speedovation/General) [![](https://img.shields.io/badge/HipChat-Online-brightgreen.svg?style=flat-square)](https://www.hipchat.com/ggaNhaRfU) [![]( http://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square)]( http://opensource.org/licenses/Apache-2.0) [![](https://img.shields.io/badge/Current%20Version-2.0.7-47C9DE.svg?style=flat-square)](http://kineticwing.com)
+
+
 Welcome to KiWi! 
 -------------------
 KineticWing (dubbed KiWi) is a free modern PHP editor which was created with the idea in mind that the PHP community needs a lightweight, portable and a smart development environment for fast web development.
@@ -32,15 +35,15 @@ Helping KiWi
 
 ####Where do I report the big I found?
 
-We have a [Bitbucket](https://bitbucket.org/codeyash/flavours/issues) account and you can use that to raise bugs!
+We have a [Bitbucket](https://bitbucket.org/codeyash/flavours/issues) (Anonymous allowed) and [Github](https://github.com/speedovation/kiwi/issues) accounts and you can use either one to raise bugs!
 
 ####What about suggestions?
 
-You can use the same [Bitbucket](https://bitbucket.org/codeyash/flavours/issues) account and the feedback feature on KiWi to do the same.
+You can use the either above accounts and the feedback feature on KiWi to do the same.
 
 ####OK! I am a hotshot developer and want to contribute to the development of KiWi!
 
-Yes you can help us! We are trying to build a community and you can certainly create plugins for everyone to use! Although we are in dire need of QT developers, we just can't hire right now because of lack of funds. So keep on the lookout for when we can!
+Yes you can help us! We are trying to build a community and you can certainly create plugins for everyone to use! Although we are in dire need of Qt developers, we just can't hire right now because we are very small and having limited budget. So keep on the lookout for when we can!
 
 ####You need money?
 
@@ -68,4 +71,14 @@ View them [here](http://www.kineticwing.com/screenshots)!
 ####Contacting the KiWi team
 
 [Contact Us](http://www.kineticwing.com/contact)!
+
+### In Progress
+
+* Fixing posted issues in this repo tracker.
+* Creating docs
+
+### License
+
+* KineticWing source is closed. Flavours are open source and under Apache 2.
+* All docs are under creative common license.
 
