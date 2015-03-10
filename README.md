@@ -33,7 +33,7 @@ To help our first time users, we will soon have a Wiki page. Please hang tight w
 Helping KiWi
 ----------------
 
-####Where do I report the big I found?
+####Where do I report the bug I found?
 
 We have a [Bitbucket](https://bitbucket.org/codeyash/flavours/issues) (Anonymous allowed) and [Github](https://github.com/speedovation/kiwi/issues) accounts and you can use either one to raise bugs!
 
