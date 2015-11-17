@@ -13,6 +13,9 @@ What makes KiWi different from other web code editors?
 
 After many years of building our IDE, we are at a stage where we can provide our next generation developers with a stable product. Pretty soon we will be floating out the beta version of our product which is currently at version 2.0.6. Feedback is very important and hence we will need all the feedback we can get. As soon as the beta is relaeased, please use it and tell us what you think! We will be waiting on you! :)
 
+[API Doc](https://rawgit.com/speedovation/kiwi/master/Api/classApi.html)
+
+
 How to install and run KiWi!
 -------------------------------
 
